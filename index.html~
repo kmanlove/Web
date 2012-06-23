@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+
+Name       : NaturalPrime 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20120325
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Naturalprime by FCT</title>
+<link href="http://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css" />
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="jquery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.gallerax-0.2.js"></script>
+<style type="text/css">
+@import "gallery.css";
+</style>
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<h1><a href="#">keziamanlove.com</a></h1>
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="menu">
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="blog.html">Blog</a></li>
+			<li><a href="collaborators.html">Collaborators</a></li>			   				<li><a href="contact.html">Contact</a></li>
+
+			<li><a href="cv.html">CV</a></li>
+		</ul>
+	</div>
+	<!-- end #menu -->
+	<div id="three-columns">
+		<div id="column1">
+			<h2>Background</h2>
+			<p>A statistician/ecologist, currently splitting my time between Bozeman, MT and State College, PA </p>
+<!--			<p><a href="#" class="link-style">Read More</a></p> -->
+		</div>
+		<div id="column2">
+			<h2>Research</h2>
+			<p>Application of statistical and mathematical tools to understand infectious diseases in wildlife </p>
+<!--			<p><a href="#" class="link-style">Read More</a></p> -->
+		</div>
+		<div id="column3">
+			<h2>A quote</h2>
+			<p>“An approximate answer to the right problem is worth a good deal more than the right answer to an approximate problem."  -R.F. Fisher </p>
+<!--			<p><a href="#" class="link-style">Read More</a></p> -->
+		</div>
+	</div>
+	<div id="banner"><img src="images/CoverImageCropped.jpg" width="960" height="350" alt="" /></div>
+	<div id="welcome">
+		<h2 class="title"><a href="#">Welcome!</a></h2>
+		<div class="entry">
+			<p>I am statistician whose interests and motivations revolve around ecology and epidemiology (or perhaps, an ecologist with a formal background in statistical modeling).  Currently, I am working toward a PhD in Peter Hudson's lab at Penn State's <a href="http://www.cidd.psu.edu">Center for Infectious Disease Dynamics</a>. My research interests broadly include application of spatial and temporal modeling techniques as they relate to understanding disease transmission processes. </p>
+		</div>
+	</div>
+	<div id="page">
+		<div id="page-bgtop">
+			<div id="page-bgbtm">
+				<div id="content">
+					<div class="post">
+						<h2 class="title"> Research Interests and Philosophy</h2>
+						<div class="entry">
+							<p>I am interested in modeling processes that operate over space and time. Some cases I find particularly exciting are spatiotemporal patterns in disease transmission, natural selection along environmental gradients, and shifting patterns in habitat use. These processes have several common components.  Ecologically, all three are mechanistically driven by species' behavioral patterns, which likely emerged in response to evolutionary pressures.  Statistically, each can be framed in models that link predictors (including the status of spatially and temporally proximal classes) to categorical (and often multivariate) responses. Physically, they all reflect a process responding to the local matrix resistance. From a modeling perspective, these processes are engaging because they are both mathematically and statistically tractable (and challenging). I'm particularly interested in developing methodologies that explicitly link between mechanistic predictions provided through mathematical models and statistical signals recovered from empirical data.  </p>
+						</div>
+					</div>
+				</div>
+				<!-- end #content -->
+				<div id="sidebar">
+					<ul>
+						<li>
+							<h2>Blogroll</h2>
+							<ul>
+								<li><a href="#">Aliquam libero</a></li>
+								<li><a href="#">Consectetuer adipiscing elit</a></li>
+								<li><a href="#">Metus aliquam pellentesque</a></li>
+								<li><a href="#">Suspendisse iaculis mauris</a></li>
+								<li><a href="#">Urnanet non molestie semper</a></li>
+								<li><a href="#">Proin gravida orci porttitor</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+				<!-- end #sidebar -->
+				<div style="clear: both;">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<!-- end #page --> 
+</div>
+<div id="footer">
+	<p>Copyright (c) 2012 keziamanlove.com. All rights reserved. Design by <a href="http://www.freecsstemplates.org">FCT</a>.</p>
+</div>
+<!-- end #footer -->
+</body>
+</html>

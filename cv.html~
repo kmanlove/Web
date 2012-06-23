@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+
+Name       : NaturalPrime 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20120325
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Naturalprime by FCT</title>
+<link href="http://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css" />
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="jquery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.gallerax-0.2.js"></script>
+<style type="text/css">
+@import "gallery.css";
+</style>
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<h1><a href="#">keziamanlove.com</a></h1>
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="menu">
+		<ul>
+			<li class="current_page_item"><a href="index.html">Home</a></li>
+			<li><a href="blog.html">Blog</a></li>
+			<li><a href="collaborators.html">Collaborators</a></li>			   				<li><a href="contact.html">Contact</a></li>
+
+			<li><a href="cv.html">CV</a></li>
+		</ul>
+	</div>
+<div id="page">
+<h1>Education </h1>
+<br/>
+<p> Ph.D. Student, Penn State University, 2012 - present</p>
+<p> M.S., Statistics, Montana State University, 2010</p>
+<p> B.A., Biological Modeling for a Sustainable Earth, Saint Olaf College, 2006 </p>
+<h1>Publications </h1>
+<br/>
+<p> Cassirer, E.F., R.K. Plowright, K.R. Manlove, P.C. Cross, K. Potter, A. Dobson, P.J. Hudson. "Spatiotemporal dynamics of pneumonia in bighorn sheep (Ovis canadensis)." (in review, Journal of Animal Ecology)</p>
+<p> Plowright, R.K., K.R. Manlove, E.F. Cassirer, P.C. Cross, T. Besser, P.J. Hudson. "Exposure history and pneumonia-induced mortality in a spatially-structured, age-structured bighorn sheep (Ovis canadensis) population." (in review, Journal of Animal Ecology). </p>
+<p>Mueller, J., L. Stanley, K. Manlove. "Multi-stage defensive noice driver training program: Does it create overconfidence?" (in revision, Journal of Safety Researcy)</p>
+<h1>Presentations </h1>
+<p> The Wildlife Society National Meeting (PLANNED Portland, OR, October 2012).  "Long term patterns of pneumonia in a bighorn sheep metapopulation." E.F. Cassirer, R.K. Plowright, K.R. Manlove, K. Potter, P.C. Cross, P.J. Hudson  </p>
+<p> The Wildlife Society Montana Chapter Meeting (Great Falls, MT, March 1, 2012) "Infection and immunity in a bighorn sheep metapopulation: Dynamics of pneumonia." K.R. Manlove, R.K. Plowright, E.F. Cassirer</p>
+<p> Joint Statistical Meetings (Vancouver, BC, August 2, 2010) "A closer look at models developed for landscape genetics." K.R. Manlove and M.D. Higgs</p>
+<p> Greater Yellowstone Network Water Quality Analysts (July 1, 2009) "Power analysis performance and interpretation." K.R. Manlove and K. Irvine </p>
+<br/> 
+<h1>Competencies </h1>
+<p> R (especially lme4, survival), LaTeX, linux</p>
+<br/>
+</div>
+<div id="footer">
+	<p>Copyright (c) 2012 keziamanlove.com. All rights reserved. Design by <a href="http://www.freecsstemplates.org">FCT</a>.</p>
+</div>
+<!-- end #footer -->
+</body>
+</html>
